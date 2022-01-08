@@ -1,3 +1,7 @@
 {
-  "block.pannotiasparcels.cane_bundle": "Sugar Cane Bundle"
+  "block.pannotiasparcels.cane_bundle": "Sugar Cane Bundle",
+  "block.pannotiasparcels.compressed_cobblestone_1x": "Compressed Cobblestone (1x)",
+  "block.pannotiasparcels.compressed_cobblestone_2x": "Compressed Cobblestone (2x)",
+  "block.pannotiasparcels.compressed_cobblestone_3x": "Compressed Cobblestone (3x)",
+  "block.pannotiasparcels.compressed_cobblestone_4x": "Compressed Cobblestone (4x)"
 }
