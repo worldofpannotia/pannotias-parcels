@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "pannotiasparcels:compressed_cobblestone_1x",
+    "pannotiasparcels:compressed_cobblestone_2x",
+    "pannotiasparcels:compressed_cobblestone_3x",
+    "pannotiasparcels:compressed_cobblestone_4x"
+  ]
+}

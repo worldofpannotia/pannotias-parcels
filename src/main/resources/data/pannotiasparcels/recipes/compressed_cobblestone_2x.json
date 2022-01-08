@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pannotiasparcels:compressed_cobblestone_1x"
+    }
+  },
+  "result": {
+    "item": "pannotiasparcels:compressed_cobblestone_2x"
+  }
+}
