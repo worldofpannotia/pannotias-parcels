@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "pannotiasparcels:block/cane_bundle_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "pannotiasparcels:block/cane_bundle"
+    },
+    "axis=z": {
+      "model": "pannotiasparcels:block/cane_bundle_horizontal",
+      "x": 90
+    }
+  }
+}
