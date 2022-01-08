@@ -1,14 +1,12 @@
 package com.worldofpannotia.minecraft;
 
 import com.worldofpannotia.minecraft.blocks.CaneBundleBlock;
+import com.worldofpannotia.minecraft.blocks.CompressedCobbleBlock;
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
-import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import org.apache.logging.log4j.LogManager;
@@ -24,10 +22,10 @@ public class PannotiasParcelsMod implements ModInitializer {
 
 	public static final Block CANE_BUNDLE_BLOCK = new CaneBundleBlock();
 
-	public static final Block COMPRESSED_COBBLE_1X = new Block(FabricBlockSettings.of(Material.STONE).strength(6f, 18f).sounds(BlockSoundGroup.STONE));
-	public static final Block COMPRESSED_COBBLE_2X = new Block(FabricBlockSettings.of(Material.STONE).strength(18f, 54f).sounds(BlockSoundGroup.STONE));
-	public static final Block COMPRESSED_COBBLE_3X = new Block(FabricBlockSettings.of(Material.STONE).strength(54f, 162f).sounds(BlockSoundGroup.STONE));
-	public static final Block COMPRESSED_COBBLE_4X = new Block(FabricBlockSettings.of(Material.STONE).strength(162f, 486f).sounds(BlockSoundGroup.STONE));
+	public static final Block COMPRESSED_COBBLE_1X = new CompressedCobbleBlock(1);
+	public static final Block COMPRESSED_COBBLE_2X = new CompressedCobbleBlock(2);
+	public static final Block COMPRESSED_COBBLE_3X = new CompressedCobbleBlock(3);
+	public static final Block COMPRESSED_COBBLE_4X = new CompressedCobbleBlock(4);
 
 	@Override
 	public void onInitialize() {
