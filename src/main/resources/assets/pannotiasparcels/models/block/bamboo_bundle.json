@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pannotiasparcels:block/bamboo_bundle_top",
+    "side": "pannotiasparcels:block/bamboo_bundle_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pannotiasparcels:compressed_sand_4x"
+    }
+  ],
+  "result": {
+    "item": "pannotiasparcels:compressed_sand_3x",
+    "count": 9
+  }
+}

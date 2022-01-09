@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pannotiasparcels:compressed_dirt_1x"
+    }
+  },
+  "result": {
+    "item": "pannotiasparcels:compressed_dirt_2x"
+  }
+}

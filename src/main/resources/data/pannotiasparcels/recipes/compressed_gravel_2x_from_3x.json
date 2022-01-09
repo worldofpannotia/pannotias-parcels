@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pannotiasparcels:compressed_gravel_3x"
+    }
+  ],
+  "result": {
+    "item": "pannotiasparcels:compressed_gravel_2x",
+    "count": 9
+  }
+}

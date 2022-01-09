@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "pannotiasparcels:compressed_dirt_1x",
+    "pannotiasparcels:compressed_dirt_2x",
+    "pannotiasparcels:compressed_dirt_3x",
+    "pannotiasparcels:compressed_dirt_4x",
+    "pannotiasparcels:compressed_gravel_1x",
+    "pannotiasparcels:compressed_gravel_2x",
+    "pannotiasparcels:compressed_gravel_3x",
+    "pannotiasparcels:compressed_gravel_4x",
+    "pannotiasparcels:compressed_sand_1x",
+    "pannotiasparcels:compressed_sand_2x",
+    "pannotiasparcels:compressed_sand_3x",
+    "pannotiasparcels:compressed_sand_4x"
+  ]
+}

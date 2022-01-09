@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "pannotiasparcels:block/compressed_sand_4x"
+      },
+      {
+        "model": "pannotiasparcels:block/compressed_sand_4x",
+        "y": 90
+      },
+      {
+        "model": "pannotiasparcels:block/compressed_sand_4x",
+        "y": 180
+      },
+      {
+        "model": "pannotiasparcels:block/compressed_sand_4x",
+        "y": 270
+      }
+    ]
+  }
+}
