@@ -1,7 +1,21 @@
 {
+  "block.pannotiasparcels.bamboo_bundle": "Bamboo Bundle",
   "block.pannotiasparcels.cane_bundle": "Sugar Cane Bundle",
+  "block.pannotiasparcels.stick_bundle": "Stick Bundle",
   "block.pannotiasparcels.compressed_cobblestone_1x": "Compressed Cobblestone (1x)",
   "block.pannotiasparcels.compressed_cobblestone_2x": "Compressed Cobblestone (2x)",
   "block.pannotiasparcels.compressed_cobblestone_3x": "Compressed Cobblestone (3x)",
-  "block.pannotiasparcels.compressed_cobblestone_4x": "Compressed Cobblestone (4x)"
+  "block.pannotiasparcels.compressed_cobblestone_4x": "Compressed Cobblestone (4x)",
+  "block.pannotiasparcels.compressed_dirt_1x": "Compressed Dirt (1x)",
+  "block.pannotiasparcels.compressed_dirt_2x": "Compressed Dirt (2x)",
+  "block.pannotiasparcels.compressed_dirt_3x": "Compressed Dirt (3x)",
+  "block.pannotiasparcels.compressed_dirt_4x": "Compressed Dirt (4x)",
+  "block.pannotiasparcels.compressed_gravel_1x": "Compressed Gravel (1x)",
+  "block.pannotiasparcels.compressed_gravel_2x": "Compressed Gravel (2x)",
+  "block.pannotiasparcels.compressed_gravel_3x": "Compressed Gravel (3x)",
+  "block.pannotiasparcels.compressed_gravel_4x": "Compressed Gravel (4x)",
+  "block.pannotiasparcels.compressed_sand_1x": "Compressed Sand (1x)",
+  "block.pannotiasparcels.compressed_sand_2x": "Compressed Sand (2x)",
+  "block.pannotiasparcels.compressed_sand_3x": "Compressed Sand (3x)",
+  "block.pannotiasparcels.compressed_sand_4x": "Compressed Sand (4x)"
 }
