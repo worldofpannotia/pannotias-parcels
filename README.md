@@ -39,7 +39,8 @@ Please use the [GitHub issue tracker](https://github.com/worldofpannotia/pannoti
 Obviously this mod would not be possible if not for the people at Mojang making an awesome game. In addition, many
 thanks go to the developers of the Fabric mod loader.
 
-[Pack icon downloaded from OpenGameArt.org.](https://opengameart.org/content/bag-icon)
+[Pack icon downloaded from OpenGameArt.org.](https://opengameart.org/content/bag-icon) <br />
+[Parcel image downloaded from pixabay.com.](https://pixabay.com/vectors/parcel-package-packaging-box-575623/)
 
 ## License
 
