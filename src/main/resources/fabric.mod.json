@@ -9,8 +9,8 @@
     "chimericdream"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/pannotias-parcels",
+    "sources": "https://github.com/worldofpannotia/pannotias-parcels"
   },
 
   "license": "MIT",
@@ -31,8 +31,5 @@
     "fabric": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
