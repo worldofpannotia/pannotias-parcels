@@ -28,6 +28,11 @@ public class PannotiasParcelsMod implements ModInitializer {
 	public static final Block COMPRESSED_COBBLE_3X = new CompressedCobbleBlock(3);
 	public static final Block COMPRESSED_COBBLE_4X = new CompressedCobbleBlock(4);
 
+	public static final Block COMPRESSED_STONE_1X = new CompressedStoneBlock(1);
+	public static final Block COMPRESSED_STONE_2X = new CompressedStoneBlock(2);
+	public static final Block COMPRESSED_STONE_3X = new CompressedStoneBlock(3);
+	public static final Block COMPRESSED_STONE_4X = new CompressedStoneBlock(4);
+
 	public static final Block COMPRESSED_DIRT_1X = new CompressedDirtBlock(1);
 	public static final Block COMPRESSED_DIRT_2X = new CompressedDirtBlock(2);
 	public static final Block COMPRESSED_DIRT_3X = new CompressedDirtBlock(3);
@@ -55,6 +60,10 @@ public class PannotiasParcelsMod implements ModInitializer {
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_cobblestone_2x"), COMPRESSED_COBBLE_2X);
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_cobblestone_3x"), COMPRESSED_COBBLE_3X);
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_cobblestone_4x"), COMPRESSED_COBBLE_4X);
+		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_stone_1x"), COMPRESSED_STONE_1X);
+		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_stone_2x"), COMPRESSED_STONE_2X);
+		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_stone_3x"), COMPRESSED_STONE_3X);
+		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_stone_4x"), COMPRESSED_STONE_4X);
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_dirt_1x"), COMPRESSED_DIRT_1X);
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_dirt_2x"), COMPRESSED_DIRT_2X);
 		Registry.register(Registry.BLOCK, new Identifier(MOD_ID, "compressed_dirt_3x"), COMPRESSED_DIRT_3X);
@@ -76,6 +85,10 @@ public class PannotiasParcelsMod implements ModInitializer {
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_cobblestone_2x"), new BlockItem(COMPRESSED_COBBLE_2X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_cobblestone_3x"), new BlockItem(COMPRESSED_COBBLE_3X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_cobblestone_4x"), new BlockItem(COMPRESSED_COBBLE_4X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_stone_1x"), new BlockItem(COMPRESSED_STONE_1X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_stone_2x"), new BlockItem(COMPRESSED_STONE_2X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_stone_3x"), new BlockItem(COMPRESSED_STONE_3X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_stone_4x"), new BlockItem(COMPRESSED_STONE_4X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_dirt_1x"), new BlockItem(COMPRESSED_DIRT_1X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_dirt_2x"), new BlockItem(COMPRESSED_DIRT_2X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 		Registry.register(Registry.ITEM, new Identifier(MOD_ID, "compressed_dirt_3x"), new BlockItem(COMPRESSED_DIRT_3X, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
